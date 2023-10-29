@@ -26,4 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7974&" alt="suraj7974" /></p>
 
-
+### My github contributions
+![Snake animation] (https://github.com/suraj7974/suraj7974/blob/output/github-contribution-grid-snake.svg)
