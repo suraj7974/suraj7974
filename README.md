@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **surajpatelsuraj55@gmail.com**
 
+-<img align="right" src="https://github.com/suraj7974/suraj7974/blob/main/pics/gif.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_suraj__147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suraj__147" height="30" width="40" /></a>
