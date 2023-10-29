@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Suraj Patel</h1>
+<div align="center"> <img width="600px" height="300px" src="https://github.com/suraj7974/suraj7974/blob/main/pics/me.jpg">  </div>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj7974&label=Profile%20views&color=0e75b6&style=flat" alt="suraj7974" /> </p>
