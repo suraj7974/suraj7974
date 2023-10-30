@@ -34,12 +34,25 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,flutter" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,nextjs,mysql,flask,tensorflow,pytorch" /><br>
 </div>
+<br>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj7974&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="suraj7974" /></p>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=suraj7974&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=suraj7974&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj7974&show_icons=true&locale=en&theme=tokyonight" alt="suraj7974" /></p>
+<br>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj7974&show_icons=true&locale=en&theme=tokyonight" alt="suraj7974" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr>
 
 
-
-### My github contributions
-![Snake animation] (https://github.com/suraj7974/suraj7974/blob/output/github-contribution-grid-snake.svg)
