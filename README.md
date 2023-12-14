@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_suraj__147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suraj__147" height="30" width="40"/></a>
- <a href="https://twitter.com/https://twitter.com/patelsuraj555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/patelsuraj555" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/_suraj__147" target="blank"><img align="center" src="https://raw.githubusercontent.com/suraj7974/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suraj__147" height="30" width="40"/></a>
+ <a href="https://twitter.com/https://twitter.com/patelsuraj555" target="blank"><img align="center" src="https://raw.githubusercontent.com/suraj7974/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/patelsuraj555" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/suraj7974/suraj7974/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
