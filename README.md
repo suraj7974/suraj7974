@@ -4,7 +4,7 @@
 </h1><hr>
 
 
-<div align="center"> <img width="600px" height="300px" src="[https://github.com/suraj7974/suraj7974/blob/main/pics/me.jpg](https://i.pinimg.com/736x/05/77/6c/05776c129fb106d5996f455fb998de01.jpg)">  </div><hr>
+<div align="center"> <img width="700px" height="300px" src="https://i.pinimg.com/736x/05/77/6c/05776c129fb106d5996f455fb998de01.jpg">  </div><hr>
 <h3 align="center">A passionate full stack developer from INDIA ᴵᴺ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj7974&label=Profile%20views&color=0e75b6&style=flat" alt="suraj7974" /> </p>
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_suraj__147" target="blank"><img align="center" src="https://raw.githubusercontent.com/suraj7974/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suraj__147" height="30" width="40"/></a>
- <a href="https://twitter.com/https://twitter.com/patelsuraj555" target="blank"><img align="center" src="https://raw.githubusercontent.com/suraj7974/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/patelsuraj555" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/_suraj__147" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg" alt="_suraj__147" height="30" width="40"/></a>
+ <a href="https://twitter.com/https://twitter.com/patelsuraj555" target="blank"><img align="center" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" alt="https://twitter.com/patelsuraj555" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -46,14 +46,5 @@
 <br>
 <hr>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/suraj7974/suraj7974/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr>
 
 
