@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj7974&label=Profile%20views&color=0e75b6&style=flat" alt="suraj7974" /> </p>
 <div align="center">
- -- 🔭 I’m currently working on **Ensembel Model**
+ -- 🔭 I’m currently working in a startup.
   
  -- 📫 How to reach me **surajpatelsuraj55@gmail.com**
   </div>
