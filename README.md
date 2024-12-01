@@ -32,6 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <img width=390 src="https://streak-stats.demolab.com/?user=suraj7974&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,react,typescript,bootstrap,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,nextjs,mysql,flask,tensorflow,pytorch" /><br>
 </div>
