@@ -2,17 +2,17 @@
 <h1 align="center">     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&size=32&duration=3000&pause=100&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Suraj+Patel" alt="Typing SVG" /></a>
 </h1>
-<p align="center">
-<a href="https://github.com/suraj7974/">
-  <img src="https://img.shields.io/badge/Recursion%20Here-red?style=for-the-badge" alt="Recursion"/>
-</a></p>
 <hr>
 
 
-<div align="center"> <img width="650px" height="300px" src="https://i.pinimg.com/736x/05/77/6c/05776c129fb106d5996f455fb998de01.jpg">  </div><hr>
+<div align="center"> <img width="850px" height="300px" src="https://github.com/suraj7974/suraj7974/blob/main/pics/banner1.png?raw=true">  </div><hr>
 <h3 align="center">A passionate full stack developer from INDIA ᴵᴺ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj7974&label=Profile%20views&color=0e75b6&style=flat" alt="suraj7974" /> </p>
+<p align="left">
+<a href="https://github.com/suraj7974/">
+  <img src="https://img.shields.io/badge/Recursion%20-red?style=for-the-badge" alt="Recursion"/>
+</a></p>
 <div align="center">
  -- 🔭 I’m currently working in a startup.
   
