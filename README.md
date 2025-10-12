@@ -1,7 +1,12 @@
    
 <h1 align="center">     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&size=32&duration=3000&pause=100&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Suraj+Patel" alt="Typing SVG" /></a>
-</h1><hr>
+</h1>
+<p align="center">
+<a href="https://github.com/suraj7974/">
+  <img src="https://img.shields.io/badge/Recursion%20Here-red?style=for-the-badge" alt="Recursion"/>
+</a></p>
+<hr>
 
 
 <div align="center"> <img width="650px" height="300px" src="https://i.pinimg.com/736x/05/77/6c/05776c129fb106d5996f455fb998de01.jpg">  </div><hr>
