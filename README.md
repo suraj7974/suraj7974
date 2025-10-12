@@ -51,6 +51,12 @@
         <img src="https://api.vaunt.dev/v1/github/entities/suraj7974/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
 </p>
+<hr>
+<p>
+<a href="https://holopin.io/@suraj7974">
+  <img src="https://holopin.me/suraj7974" alt="@suraj7974's Holopin board" />
+</a>
+</p>
 
 
 
