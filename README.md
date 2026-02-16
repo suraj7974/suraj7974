@@ -13,9 +13,7 @@
 <a href="https://github.com/suraj7974/">
   <img src="https://img.shields.io/badge/Recursion%20-red?style=for-the-badge" alt="Recursion"/>
 </a></p>
-<div align="center">
- -- 🔭 I’m currently working in a startup.
-  
+<div align="center">  
  -- 📫 How to reach me **surajpatelsuraj55@gmail.com**
   </div>
 
