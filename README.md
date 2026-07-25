@@ -44,7 +44,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,nextjs,mysql,flask,tensorflow,pytorch" /><br>
 </div>
 <br>
-<hr>
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
 
 <div align=center>
    <img width=390 src="https://streak-stats.demolab.com/?user=suraj7974&count_private=true&theme=react&border_radius=10&v=1" alt="streak stats"/>
@@ -52,14 +53,16 @@
   <br/>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj7974&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="suraj7974" /></p>
 <br>
-<hr>
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
 
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/suraj7974/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
+         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suraj7974&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" width="50%" alt="Top Languages" />
+
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p>
 <a href="https://holopin.io/@suraj7974">
   <img src="https://holopin.me/suraj7974" alt="@suraj7974's Holopin board" />
